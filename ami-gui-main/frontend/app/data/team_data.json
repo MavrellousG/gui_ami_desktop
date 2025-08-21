@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Aahil Namajee",
+    "roles": ["Software Engineer", "Intern"],
+    "email": "aahil.trn@ad.infosys.org",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQEVjNcivcnqsA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729804282745?e=1755129600&v=beta&t=ISwGhVgSvoHAbxMy6QS2rD9KZpEPULFB1gHumJ124AU",
+    "profileUrl": "https://linkedin.com/in/aahil-namajee/"
+},
+  {
+    "name": "Hassan Chaudhry",
+    "roles": ["Software Engineer", "Intern"],
+    "email": "hassan.trn@ad.infosys.org",
+    "image": "../images/hassan.jpeg",
+    "profileUrl": "/team/hassan-chaudhry"
+  },
+  {
+    "name": "Aditi Bhat",
+    "roles": ["Software Engineer", "Intern"],
+    "email": "aditi31.trn@ad.infosys.org",
+    "image": "../images/aditi.jpeg",
+    "profileUrl": "/team/aditi-bhat"
+  },
+{
+    "name": "Georgios Mavrelis",
+    "roles": ["Senior Associate"],
+    "email": "georgios.mavrelis@infosys.com",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQFC4DWLT0p7Kw/profile-displayphoto-shrink_400_400/B4EZOsahI9H0Aw-/0/1733764453940?e=1756339200&v=beta&t=sdPyXo6-ce73-VPF12jP3WW1ufx5qN7JEXoBZ1hzhLc",
+    "profileUrl": "https://www.linkedin.com/in/georgios-mavrelis/"
+  },
+  {
+    "name": "Korab Beqiraj",
+    "roles": ["Associate"],
+    "email": "korab.beqiraj@infosys.com",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQETA9gjJFctNQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720005496633?e=1756339200&v=beta&t=nONmM7zkbKbZlNoaTWhxVnZ0WmiX5B4CtxA8sL50bnQ",
+    "profileUrl": "https://www.linkedin.com/in/korab-beqiraj-395291270/"
+  },
+  {
+    "name": "Maciej Dolny",
+    "roles": ["Lead Consultant"],
+    "email": "maciej.dolnt@infosys.com",
+    "image": "https://media.licdn.com/dms/image/v2/C4E03AQHPrTXCdGg7Ng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1593359544750?e=1756339200&v=beta&t=oA1F2TjW-gzJPQslF0SiPcnuYD8CD_95ALlm9efeUWw",
+    "profileUrl": "https://www.linkedin.com/in/maciej-dolny-5a56846/"
+  },
+  {
+    "name": "Sushrut Vaidya",
+    "roles": ["Senior Principal"],
+    "email": "sushrut_vaidya@infosys.com",
+    "image": "https://media.licdn.com/dms/image/v2/C4D03AQEWYq75IcIPCA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516615579621?e=1756339200&v=beta&t=iyQQfVepVdlgP1e9MIL0DSlTe0x9KGUbWcgzsi5j-v8",
+    "profileUrl": "https://www.linkedin.com/in/sushrut-vaidya/"
+  }
+]

@@ -1,0 +1,23 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# HTTP dependencies
+requests==2.31.0
+
+# Environment configuration
+python-dotenv==1.0.0
+
+# LangChain community loaders & splitters
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+
+# Cohere AI client
+cohere==4.37
+
+# AstraDB client
+astrapy==0.7.7
+
+# Additional utilities
+typing-extensions==4.8.0
